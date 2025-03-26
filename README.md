@@ -4,6 +4,8 @@ VAR, VARMAX, LSTM모델을 이용한 "코스피200 경기 소비재 지수" 에�
 
 [프레젠테이션](https://drive.google.com/file/d/1RFAu1CvGGJKqtE9PIcIgL-yvme_rfin5/view?usp=drive_link)
 
+#Python #Pandas #Numpy #VAR #VARMAX #CNN #LSTM #시계열모델 #Pytorch
+
 ## 개요
 
  한창 비트코인이나 주식 리딩방, 혹은 부티크 사기가 성행 중임. 그래서 불확실한 리딩방에 현혹되지 않고 수치적으로 참고할 수 있는 인덱스를 하나 만들어서 그런 사기피해를 줄일 수 있기를 바라며 국내 소비재 지수를 예측하는 단기 인덱스를 만들게 되었음
